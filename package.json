@@ -43,6 +43,6 @@
 	"dependencies": {
 		"deep-equal": "2.0.5",
 		"line-by-line": "0.1.6",
-		"pg": "8.5.1"
+		"pg": "^8.5.1"
 	}
 }
